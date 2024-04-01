@@ -1,1 +1,1 @@
-
+let mySprite = 0
